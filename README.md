@@ -41,9 +41,9 @@ This project aims to quantify how accurately Morbus Parkinson's can be classifie
 
 ## Links to Ressources
 
-- Introduction Notebook as [iPython](https://gitlab.cs.fau.de/uj10yjun/representation-learning-for-gait-analysis-in-parkinson-s-patients/-/blob/master/notebooks/Introduction.ipynb)
-- Prediction Notebook as [iPython](https://gitlab.cs.fau.de/uj10yjun/representation-learning-for-gait-analysis-in-parkinson-s-patients/-/blob/master/notebooks/Prediction.ipynb)
-- Final Paper as [PDF](https://gitlab.cs.fau.de/uj10yjun/representation-learning-for-gait-analysis-in-parkinson-s-patients/-/blob/master/reports/MLTS_Tim_Loehr_Christoph_Popp.pdf)
+- Introduction Notebook as [iPython](https://github.com/Mavengence/Representation-Learning-for-Gait-Analysis-in-Parkinson-s-Patients/blob/master/notebooks/Introduction.ipynb)
+- Prediction Notebook as [iPython](https://github.com/Mavengence/Representation-Learning-for-Gait-Analysis-in-Parkinson-s-Patients/blob/master/notebooks/Prediction.ipynb)
+- Final Paper as [PDF](https://github.com/Mavengence/Representation-Learning-for-Gait-Analysis-in-Parkinson-s-Patients/blob/master/report/MLTS_Tim_Loehr_Christoph_Popp.pdf)
 
 
 ## Train Parameters
@@ -80,13 +80,9 @@ We use python version 3.7.4
 ## Authors
 
 * **Tim Löhr** - If you have questions you can contact me under timloehr@icloud.com
-* **Christop Popp** - If you have questions you can contact me under christoph.popp@fau.de
+* **Christop Popp**
 
 
 ## License
 
 This project was done for the project in Machine Learning Timeseries from the Machine Learning and Data Analytics Lab at the Friedrich Alexander University in Erlangen-Nürnberg.
-
-## Acknowledgments
-
-* Thanks a lot to Falk Pulsmeyer from the Machine Learning and Data Analytics Lab for a really good supervising through all my project. I can totally recommend this seminar!
